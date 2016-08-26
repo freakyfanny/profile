@@ -1,0 +1,25 @@
+{
+  "name": "sheisfanny",
+  "description": "This is the website for Fanny Petersson Sällberg",
+  "main": "index.js",
+  "authors": [
+    "Fanny Petersson Sällberg"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^3.1.0",
+    "modernizr": "^3.3.1",
+    "jquery-ui": "jqueryui#^1.12.0",
+    "lodash": "^4.15.0",
+    "draggabilly": "^2.1.1"
+  }
+}
